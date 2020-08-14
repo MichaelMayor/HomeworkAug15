@@ -1,0 +1,10 @@
+body {
+    background-image: url(./images/Background-website.jpg);
+}
+img {
+    width: 100%;
+}
+.title {
+    margin: 20px 0;
+    background-color: whitesmoke;
+}
